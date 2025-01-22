@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 // export class NavBar extends Component <--///////////class base.........
 const NavBar = () => {
-// render() {
+
   return (
     <div>
       <nav className="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
